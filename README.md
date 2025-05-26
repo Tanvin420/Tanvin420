@@ -36,37 +36,17 @@
 
 ### 🧠 Skills & Technologies
 
-#### 👨‍💻 Programming Languages
-- **Python**, **C/C++**, **Java**
-
-#### 📄 Typesetting
-- **LaTeX**
-
-#### 🌐 Web & App Development
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
-- **Backend & Database:** PHP, Oracle, MySQL, Firebase  
-- **Mobile App Development:** Flutter, Dart
-
-#### 🤖 Machine Learning & AI
-- Google Colab, Kaggle, Hugging Face, Microsoft Azure
-
-#### 🔧 Microcontroller Platforms
-- Arduino, ESP32
-
-#### 📊 Project Management & Presentation
-- Microsoft Project, Microsoft PowerPoint, Microsoft Visio
-
-#### 🎨 Graphics & Media Tools
-- Blender, Adobe Photoshop, Adobe Premiere Pro
-
-#### 💡 Soft Skills
-- Adaptability, Research, Empathy, Teamwork, Listening, Problem-solving
-
-#### 🛠️ Other Technical Knowledge
-- Tech Support, Troubleshooting, Technical Writing
-
-#### 🌍 Languages
-- **Bangla**, **English**
+💻 **Languages:** Python · C/C++ · Java · Dart · LaTeX  
+🌐 **Frontend:** HTML · CSS · Bootstrap · JavaScript  
+🛠️ **Backend / DB:** PHP · Oracle · MySQL · Firebase  
+📱 **Mobile Dev:** Flutter  
+🧪 **ML / AI:** Google Colab · Kaggle · Hugging Face · Azure  
+🔌 **Microcontrollers:** Arduino · ESP32  
+📊 **Project Tools:** MS Project · PowerPoint · Visio  
+🎨 **Graphics / Media:** Blender · Photoshop · Premiere Pro  
+🧰 **Other:** Tech Support · Troubleshooting · Technical Writing  
+🤝 **Soft Skills:** Adaptability · Research · Empathy · Teamwork · Listening · Problem-solving  
+🗣️ **Languages Spoken:** Bangla · English
 
 ---
 
