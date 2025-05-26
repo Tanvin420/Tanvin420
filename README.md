@@ -7,7 +7,7 @@
 
 ---
 
-🎓 **CSE Undergraduate** at [Military Institute of Science and Technology (MIST)](https://mist.ac.bd)  
+🎓 **CSE Undergraduate** from [Military Institute of Science and Technology (MIST)](https://mist.ac.bd)  
 🔬 **Formar Research Assistant** @ MIST CSE | **Junior Researcher** @ Quantum Robotics and Automation Research Group (QRARG)  
 💡 Passionate about **Natural Language Processing, AI/ML, Human-Computer Interaction**, and **Cybersecurity**  
 🛠️ Active contributor to open-source research and real-world AI-based applications  
