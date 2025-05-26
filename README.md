@@ -24,33 +24,58 @@
 
 ---
 
-### 💼 Projects
+### 💼 Notable Projects
 
 - **Health AI** – Personal healthcare companion app powered by AI & IoT [🧠](https://github.com/nurshatfateh/Health-AI)  
 - **PPD Coach** – ML-powered mobile app for detecting Postpartum Depression  
 - **Bangla Legal Summarizer** – NLP system for Bangla legal documents using LLMs  
 - **Search Algorithm Visualizer** – Interactive 2D grid visualizer for BFS, DFS, A*, etc.  
 - **Disaster Alert System** – Social media-based real-time disaster and location detector  
-- **Gesture Controlled Car** – IoT prototype using Arduino and ESP32
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Skills & Technologies
 
-**Languages:** Python | C/C++ | Java | Dart  
-**Frameworks/Tools:** Flutter | Firebase | Azure | TensorFlow Lite | LaTeX  
-**Web Dev:** HTML | CSS | JS | Bootstrap | PHP | MySQL  
-**ML/AI:** Google Colab | Hugging Face | SpaCy | BERT | T5 | LSTM  
-**Microcontrollers:** Arduino | ESP32  
-**Design & Editing:** Adobe Premiere Pro | Photoshop | Blender  
+#### 👨‍💻 Programming Languages
+- **Python**, **C/C++**, **Java**
+
+#### 📄 Typesetting
+- **LaTeX**
+
+#### 🌐 Web & App Development
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend & Database:** PHP, Oracle, MySQL, Firebase  
+- **Mobile App Development:** Flutter, Dart
+
+#### 🤖 Machine Learning & AI
+- Google Colab, Kaggle, Hugging Face, Microsoft Azure
+
+#### 🔧 Microcontroller Platforms
+- Arduino, ESP32
+
+#### 📊 Project Management & Presentation
+- Microsoft Project, Microsoft PowerPoint, Microsoft Visio
+
+#### 🎨 Graphics & Media Tools
+- Blender, Adobe Photoshop, Adobe Premiere Pro
+
+#### 💡 Soft Skills
+- Adaptability, Research, Empathy, Teamwork, Listening, Problem-solving
+
+#### 🛠️ Other Technical Knowledge
+- Tech Support, Troubleshooting, Technical Writing
+
+#### 🌍 Languages
+- **Bangla**, **English**
 
 ---
 
 ### 🏆 Achievements
 
 - 🏅 MIST Dean’s List of Honor – 2022 & 2023  
-- 🏆 Microsoft for Startups Founders Hub – $5,000+ Azure Credits  
-- 🥇 Top 10 – Inter-University Hackathon, BUET CSE Fest 2023  
+- 🏆 Microsoft for Startups Founders Hub – $5,000+ Azure Credit
+- 🥇 Top 10 – Inter-University Hackathon, BUET CSE Fest 2023
+- 🥈 35th - MIST LeetCon 2023: HackMeIfYouCan.
 - 🥈 15th – BUET CTF Competition | 🥉 18th – ML Olympiad CO2 Challenge  
 - 📌 Published in IEEE, ACM, Springer-indexed conferences & journals
 
@@ -67,8 +92,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvin420&show_icons=true&theme=radical" alt="stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvin420&theme=radical" alt="streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvin420&layout=compact&theme=radical" alt="langs" />
