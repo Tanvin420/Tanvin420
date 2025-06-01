@@ -24,9 +24,10 @@
 
 ### 🚀 Research & Publications
 - 🧠 <b>13+ Publications</b> (2 Journals, 11 Conferences)  
-- 🏆 <b>Best Paper</b> @ ICISET 2024 (Mom was proud!)  
+- 🏆 <b>Best Paper</b> @ ICISET 2024 
 - 📚 <b>Topics:</b> NLP, ML, DL, IoT, HCI, CV, Cybersecurity  
 - 📜 <a href="https://scholar.google.com/citations?hl=en&user=7M_WwfMAAAAJ">Google Scholar</a>
+- 📜 <a href="https://www.researchgate.net/profile/Jamal-Uddin-Tanvin">ResearchGate</a>
 
 ---
 
